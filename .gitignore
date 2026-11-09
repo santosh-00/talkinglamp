@@ -1,0 +1,16 @@
+# Secrets
+.env
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Downloaded models (see README.md)
+models/
+
+# Runtime output: turn logs and camera snapshots, which can show people
+logs/
+
+# OS files
+.DS_Store
